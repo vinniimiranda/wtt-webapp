@@ -1,6 +1,6 @@
 # WTT - WEBAPP 
 
-#Overview
+# Overview
 
 Esta aplicação foi feita em Vuejs através do vue-cli, sendo que mesma está utilizando Vuex e Vue-router para seu melhor funcionamento
 
