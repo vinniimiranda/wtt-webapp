@@ -1,39 +1,26 @@
-# client
+# WTT - WEBAPP 
 
-## Project setup
-```
-yarn install
-```
+#Overview
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+Esta aplicação foi feita em Vuejs através do vue-cli, sendo que mesma está utilizando Vuex e Vue-router para seu melhor funcionamento
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+# Desgin
 
-### Run your tests
-```
-yarn run test
-```
+Foi utilizado o Bootstrap-vue que nada mais é que uma versão do Bootstrap 4 adaptada para o Vue, a aplicação é responsiva se adapatando a diversos tipos de dispositivos e conta  também com o conceito de PWA.
 
-### Lints and fixes files
-```
-yarn run lint
-```
+# Rodando o projeto
 
-### Run your end-to-end tests
-```
-yarn run test:e2e
-```
+Para rodar esse projeto em localhost como desenvolvimento é necessário possuir o Vue-cli, entranto a versão webpack está disponível na pasta /dist.
 
-### Run your unit tests
-```
-yarn run test:unit
-```
+Instruções: 
+- $ git clone https://github.com/vinniimiranda/wtt-webapp.git
+- $ cd wtt-webapp 
+- $ yarn install
+- $ yarn start
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A WebApp será acessível pelo link: http://localhost:8080
+
+# Deploy
+
+Esta WebApp está hospedada/rodando no Heroku e pode ser acessada pelo link: https://wtt-webapp.herokuapp.com/
+
