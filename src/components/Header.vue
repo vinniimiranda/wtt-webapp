@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-navbar toggleable="lg" type="dark" variant="success  " fixed="fixed" :print="true">
-      <b-navbar-brand class="mr-3">WTT</b-navbar-brand>
+      <b-navbar-brand class="mr-3">Pineapple</b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
