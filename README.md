@@ -16,7 +16,7 @@ Instruções:
 - $ git clone https://github.com/vinniimiranda/wtt-webapp.git
 - $ cd wtt-webapp 
 - $ yarn install
-- $ yarn start
+- $ yarn start ou yarn serve (em caso de vue-cli apenas)
 
 A WebApp será acessível pelo link: http://localhost:8080
 
