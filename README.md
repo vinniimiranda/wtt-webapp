@@ -12,7 +12,7 @@ Foi utilizado o Bootstrap-vue que nada mais é que uma versão do Bootstrap 4 ad
 
 Para rodar no Docker é necessário fazer o build da imagem que está configurado no Dockerfile, para isso com o Docker instalado execute os seguintes comandos no terminal: 
 - $ git clone https://github.com/vinniimiranda/wtt-webapp.git
-- $ cd wtt-api
+- $ cd wtt-webapp
 - $ docker build -t wtt-webapp .
 - $ docker docker run -p 8080:8080 -h 0.0.0.0 wtt-webapp
 
